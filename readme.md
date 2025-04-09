@@ -9,5 +9,8 @@
 Usually Hidden BIOS Settings should appear with a key combination, this laptop doesn't.
 So we gonna use a USB Pendrive in order to force-it.
 
-1. Download the bootable iso file. [DOWNLOAD](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios/releases/download/v0.0.1/lenovo_legion_advanced_bios.iso)
-2. 
+First, download the bootable iso. [DOWNLOAD](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios/releases/download/v0.0.1/lenovo_legion_advanced_bios.iso)  [MIRROR](https://github.com/gzmatte/lenovolegion/releases/download/1/lenovo_legion_advanced_bios-backup.iso)
+
+Now, install it to your pendrive via [RUFUS](https://github.com/pbatard/rufus/releases/download/v3.18/rufus-3.18.exe)
+
+Once ready, restart your PC and enable in your BIOS "USB BOOT" and Disable "Secure Boot".
